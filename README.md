@@ -6,12 +6,12 @@ Propuesta de Patricio Ovalle Wood para una nueva etapa de innovación pública e
 
 La plataforma presenta cuatro ejes de servicios:
 
-1. Capacidades para innovar.
-2. Consultoría ágil e implementación.
-3. Articulación territorial, ecosistemas y cultura.
-4. Inteligencia territorial, evaluación y transferencia.
+1. Desarrollo de entorno y cultura.
+2. Capacidades para innovar.
+3. Consultoría ágil e implementación.
+4. Redes y ferias demostrativas, con foco comunicacional y de vinculación.
 
-Incluye doce servicios, metodologías interactivas, herramientas, ejemplos ilustrativos, rutas visuales descargables y una propuesta de primeros cien días.
+El diagnóstico, la evaluación y la transferencia constituyen un soporte transversal a los cuatro ejes. Incluye servicios, metodologías interactivas, herramientas, ejemplos ilustrativos, rutas visuales descargables, una autoevaluación inicial y una propuesta de primeros cien días.
 
 ## Archivos
 
